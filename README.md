@@ -5,7 +5,7 @@ in-game day/night phase and counts down to the next transition — so you don't
 have to alt-tab or squint at the corner of your screen to know when night
 (and its bonuses) starts or ends.
 
-![Widget screenshot](screenshots/bdo_clock.png)
+![Widget screenshot](screenshots/widget_example.webp)
 
 ## Features
 
