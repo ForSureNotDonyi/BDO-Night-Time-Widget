@@ -1,0 +1,38 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+publish/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio cache/options
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.csproj.Backup.tmp
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# Rider
+.idea/
+
+# Claude Code local settings (machine-specific, not project source)
+.claude/settings.local.json
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Crash/error logs
+*.log
